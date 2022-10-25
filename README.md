@@ -21,7 +21,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
-To view the demo: **[click here](rocket-pay-roan-zeta.vercel.app)**
+Para ver a demo: **[clique aqui](rocket-pay-roan-zeta.vercel.app)**
 
 
 ## 🚀 Tecnologias
